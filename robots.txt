@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /kit-64aff90e4c/
+Sitemap: https://varnamalastudio.github.io/sitemap.xml
